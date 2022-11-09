@@ -4,7 +4,7 @@
   8GB, and so you can do what you need from yet another
   Raspberry Pi (or the like) with a smallish root file
   system that doesn't have 30 fucking GB of free space to
-  contain the (30 - 8) GB of free-space that takes up space,
+  contain the (30 - 4) GB of free-space that takes up space,
   because certain "professionals" don't know what they're
   doing...
  
